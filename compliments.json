@@ -1,17 +1,3 @@
 {
-	anytime: [
-		"Meeting!"
-	],
-	morning: [
-		"Meeting!"
-	],
-	afternoon: [
-		"Meeting!"
-	],
-	evening: [
-		"Meeting!"
-	],
-	"....-01-01": [
-			"Happy new year!"
-	]
+	"anytime": ["In a Meeting!"]
 }
